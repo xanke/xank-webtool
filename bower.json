@@ -14,5 +14,6 @@
         "assets/javascripts/bootstrap.js"
       ]
     }
-  }
+  },
+  "private": true
 }
