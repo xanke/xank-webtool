@@ -1,6 +1,7 @@
 {
   "name": "xank-webtool",
   "private": true,
+  "main": "app/scripts/main.js",
   "dependencies": {
     "bootstrap-sass": "~3.3.5",
     "modernizr": "~2.8.1"
